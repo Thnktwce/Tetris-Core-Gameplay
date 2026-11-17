@@ -2,6 +2,8 @@
 
 Core Tetris gameplay implemented in **Unity 6** (6000.0.32f1) with C#.
 
+![Gameplay](docs/screenshot.jpg)
+
 ## Features
 - Game board with line clearing (`Board`)
 - All seven tetrominoes and their data (`Tetronimo`, `Data`)
